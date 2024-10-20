@@ -1,5 +1,5 @@
 
-# Klockcraft 1.1 - Desktop Runtime
+# Release 1.1 - Desktop Runtime
 
 ## Requirements
 
